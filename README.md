@@ -13,10 +13,9 @@
 ## 📌 Overview
 
 This project focuses on understanding and experimenting with **Transformer-based Large Language Models (LLMs)** through the following main objectives:
+- 🔹 **Discuss the evolution of LLMs**, from early models like BERT and GPT-2 to more advanced systems like GPT-4 and T5, highlighting key milestones and paradigm shifts.
 
 - 🔹 **Understand the architecture of the Transformer**, including components such as multi-head attention, input embedding, feed-forward layers, and normalization techniques.
-
-- 🔹 **Discuss the evolution of LLMs**, from early models like BERT and GPT-2 to more advanced systems like GPT-4 and T5, highlighting key milestones and paradigm shifts.
 
 - 🔹 **Explore various fine-tuning techniques**, for example:
   - Full fine-tuning
@@ -32,6 +31,6 @@ This project focuses on understanding and experimenting with **Transformer-based
 
 - 🔹 **Compare the effectiveness of different fine-tuning strategies**, focusing on both performance and parameter efficiency.
 
-- 🔹 **Draw insights** and propose future directions based on experimental results.
+- 🔹 **Draw insights** and **Propose future directions** based on experimental results.
 
 
